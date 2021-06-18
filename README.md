@@ -8,7 +8,7 @@ Add https://msaix.github.io/standard-notes-extended/ or https://raw.githubuserco
 _Note this currently can only be activated on the Desktop Application_
 
 <p align="center">
-	<img alt="Standard Notes Extension Repository Activation" src="https://github.com/msaix/standard-notes-open-/blob/master/assets/activation.png?raw=true" width="80%" />
+	<img alt="Standard Notes Extension Repository Activation" src="https://github.com/msaix/standard-notes-extended/blob/master/assets/activation.png?raw=true" width="80%" />
 </p>
 
 # Features
